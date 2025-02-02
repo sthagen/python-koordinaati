@@ -63,7 +63,12 @@
     {
       "category": "null",
       "date": "2025-01",
-      "downloads": 54
+      "downloads": 56
+    },
+    {
+      "category": "null",
+      "date": "2025-02",
+      "downloads": 2
     }
   ],
   "package": "koordinaatit",
