@@ -23,7 +23,7 @@
     {
       "category": "3.12",
       "date": "2024-08",
-      "downloads": 4
+      "downloads": 2
     },
     {
       "category": "3.9",
@@ -33,7 +33,7 @@
     {
       "category": "null",
       "date": "2024-08",
-      "downloads": 5
+      "downloads": 3
     },
     {
       "category": "null",
@@ -63,7 +63,7 @@
     {
       "category": "null",
       "date": "2025-02",
-      "downloads": 22
+      "downloads": 24
     }
   ],
   "package": "koordinaatit",
